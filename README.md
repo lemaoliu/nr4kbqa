@@ -1,4 +1,2 @@
-# nr4kbqa
-
-Number Reasoning for KBQA
+# Number Reasoning for KBQA
 
